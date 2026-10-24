@@ -1,0 +1,12 @@
+# Debugging-Einstellungen für CEP
+.debug
+
+# System- und Editor-Dateien
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Lokale Testskripte
+_tests/
